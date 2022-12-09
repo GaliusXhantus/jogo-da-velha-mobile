@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-mergeDebugResources-48:\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-mergeDebugResources-48:\\layout\\fragment_sobre.xml",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\layout\\fragment_sobre.xml"
+    },
+    {
+        "merged": "br.com.xhantusgalius.meus_apps.app-mergeDebugResources-48:/layout/fragment_main.xml",
+        "source": "br.com.xhantusgalius.meus_apps.app-main-51:/layout/fragment_main.xml"
+    }
+]

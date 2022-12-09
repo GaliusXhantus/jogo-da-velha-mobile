@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-merged_res-49:\\mipmap-xxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\mipmap-xxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-merged_res-49:\\mipmap-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-merged_res-49:\\mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\mipmap-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-merged_res-49:\\navigation_navigation.xml.flat",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\navigation\\navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-merged_res-49:\\mipmap-hdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\mipmap-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-merged_res-49:\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-merged_res-49:\\mipmap-xhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\mipmap-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-merged_res-49:\\drawable_button_gradient.xml.flat",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\drawable\\button_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-merged_res-49:\\mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\mipmap-xhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-merged_res-49:\\drawable_app_icon_foreground.xml.flat",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\drawable\\app_icon_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-merged_res-49:\\drawable_gradient.xml.flat",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "br.com.xhantusgalius.meus_apps.app-merged_res-49:/drawable_shapes.xml.flat",
+        "source": "br.com.xhantusgalius.meus_apps.app-main-51:/drawable/shapes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-merged_res-49:\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-merged_res-49:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-merged_res-49:\\mipmap-mdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\mipmap-mdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-merged_res-49:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-merged_res-49:\\mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\mipmap-xxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-merged_res-49:\\layout_fragment_main.xml.flat",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "br.com.xhantusgalius.meus_apps.app-merged_res-49:/layout_fragment_main.xml.flat",
+        "source": "br.com.xhantusgalius.meus_apps.app-main-51:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-merged_res-49:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-merged_res-49:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-merged_res-49:\\drawable_shapes.xml.flat",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\drawable\\shapes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-merged_res-49:\\mipmap-hdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\mipmap-hdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-merged_res-49:\\layout_fragment_sobre.xml.flat",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\layout\\fragment_sobre.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-merged_res-49:\\mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\Marcos\\.gradle\\daemon\\7.4\\br.com.xhantusgalius.meus_apps.app-main-51:\\mipmap-xxxhdpi\\app_icon_round.png"
+    }
+]
