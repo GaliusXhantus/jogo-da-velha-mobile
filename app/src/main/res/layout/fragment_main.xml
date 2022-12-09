@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/gradient"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/texteView"
+                style="@style/textStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/vez_do_jogador"/>
+
+            <TextView
+                android:id="@+id/nome_jogador"
+                style="@style/textStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="x"/>
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal">
+
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center_horizontal">
+
+                    <Button
+                        android:id="@+id/button1"
+                        style="@style/textStyle"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_margin="0dp"
+                        android:background="@drawable/shapes"
+                        android:text=""
+                        android:textAlignment="center"
+                        android:textAllCaps="false"
+                        tools:ignore="DuplicateSpeakableTextCheck" />
+
+                    <Button
+                        android:id="@+id/button2"
+                        style="@style/textStyle"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_margin="0dp"
+                        android:background="@drawable/shapes"
+                        android:text=""
+                        android:textAlignment="center"
+                        android:textAllCaps="false" />
+
+                    <Button
+                        android:id="@+id/button3"
+                        style="@style/textStyle"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_margin="0dp"
+                        android:background="@drawable/shapes"
+                        android:text=""
+                        android:textAlignment="center"
+                        android:textAllCaps="false" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center_horizontal">
+
+
+                    <Button
+                        android:id="@+id/button4"
+                        style="@style/textStyle"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_margin="0dp"
+                        android:background="@drawable/shapes"
+                        android:text=""
+                        android:textAlignment="center"
+                        android:textAllCaps="false" />
+
+                    <Button
+                        android:id="@+id/button5"
+                        style="@style/textStyle"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_margin="0dp"
+                        android:background="@drawable/shapes"
+                        android:text=""
+                        android:textAlignment="center"
+                        android:textAllCaps="false" />
+
+                    <Button
+                        android:id="@+id/button6"
+                        style="@style/textStyle"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_margin="0dp"
+                        android:background="@drawable/shapes"
+                        android:text=""
+                        android:textAlignment="center"
+                        android:textAllCaps="false" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center_horizontal">
+
+
+                    <Button
+                        android:id="@+id/button7"
+                        style="@style/textStyle"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_margin="0dp"
+                        android:background="@drawable/shapes"
+                        android:text=""
+                        android:textAlignment="center"
+                        android:textAllCaps="false" />
+
+                    <Button
+                        android:id="@+id/button8"
+                        style="@style/textStyle"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_margin="0dp"
+                        android:background="@drawable/shapes"
+                        android:text=""
+                        android:textAlignment="center"
+                        android:textAllCaps="false" />
+
+                    <Button
+                        android:id="@+id/button9"
+                        style="@style/textStyle"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_margin="0dp"
+                        android:background="@drawable/shapes"
+                        android:text=""
+                        android:textAlignment="center"
+                        android:textAllCaps="false" />
+                </TableRow>
+            </TableLayout>
+
+            <Button
+                android:id="@+id/resetar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/textStyle"
+                android:paddingHorizontal="20dp"
+                android:layout_marginTop="30dp"
+                android:text="@string/recome_ar"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/button_gradient"/>
+        </LinearLayout>
+    </FrameLayout>
+</layout>
